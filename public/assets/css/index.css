@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: #eeeeee;
+    text-align: center;
+    height: 96%;
+}
+body{
+    background-color:#393e46; ;
+}
